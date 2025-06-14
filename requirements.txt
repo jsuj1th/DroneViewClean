@@ -1,0 +1,15 @@
+pandas
+geopandas
+shapely
+mercantile
+requests
+pillow
+matplotlib
+tqdm
+folium
+# matplotlib 
+mapclassify
+contextily
+diffusers
+torch
+transformers
