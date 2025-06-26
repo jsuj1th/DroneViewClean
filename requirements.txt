@@ -13,3 +13,4 @@ contextily
 diffusers
 torch
 transformers
+segment_anything
